@@ -67,7 +67,7 @@ To upload it:
 
 - [x] Schematic finished
 - [x] PCB routed and DRC checked
-- [ ] Gerbers exported
+- [X] Gerbers exported
 - [ ] Parts ordered and board built
 - [ ] Firmware tested on real hardware
 
