@@ -47,7 +47,8 @@ I made this for Half Life Week 1, following the Starbie guide, and then changed 
 
 ## Files
 
-- `HalfLife10weeks/Hardware/`: KiCad project, footprint and symbol libraries, drill files and 3D models
+-  `HalfLife10weeks/Hardware/Starbie/`: KiCad project (schematic and PCB)
+- `HalfLife10weeks/Hardware/`: imported footprints (`Imported Parts.pretty`), symbol library and 3D models
 - `HalfLife10weeks/Gerbers/`: manufacturing files for the PCB
 - `HalfLife10weeks/Firmware/StarbieCode/`: Arduino sketch
 - `HalfLife10weeks/Images/`: screenshots of the design
@@ -62,6 +63,8 @@ To upload it:
 3. In Boards Manager, install **esp32 by Espressif Systems**, then select the board **XIAO_ESP32C3**.
 4. Install the libraries: Adafruit GFX Library, Adafruit SSD1306, Adafruit MPU6050 and DHT sensor library.
 5. Open `HalfLife10weeks/Firmware/StarbieCode/StarbieCode.ino` and upload.
+
+6. To open the project in KiCad, first add Hardware/Imported Parts.pretty (footprints) and Hardware/Seeed_Studio_XIAO_Series.kicad_sym (symbols) under Preferences → Manage Footprint/Symbol Libraries.
 
 ## Status
 
