@@ -1,3 +1,4 @@
+[README-BOM-section.md](https://github.com/user-attachments/files/33780172/README-BOM-section.md)
 # My Starbie
 
 A tiny star-shaped desk pet. A XIAO ESP32-C3 draws a wandering pet on a 0.96" OLED screen. You can open a radial menu with a button, tilt the board to pick an action, and check the room temperature and humidity on a stats screen.
@@ -87,6 +88,24 @@ To upload it:
 - Design a 3D-printed case in Fusion 360 for it.
 - Draw my own pet sprite instead of the starter one.
 
+- [Uploading README-BOM-section.md…]()
+## Bill of Materials
+
+Full file: [`bom.csv`](bom.csv). Prices converted from GBP to USD at 1 GBP = 1.3386 USD (21 Oct 2026).
+
+| Name | Purpose | Qty | Unit cost (USD) | Total (USD) | Vendor |
+| --- | --- | --- | --- | --- | --- |
+| ESP32 C3 SuperMini | Main microcontroller | 1 | $2.66 | $2.66 | AliExpress |
+| 0.96in 128x64 I2C OLED | Pet display | 1 | $2.60 | $2.60 | UMLIFE Store (AliExpress) |
+| GY-521 MPU6050 module | Tilt and shake sensing | 1 | $2.16 | $2.16 | ZAVE Official Store (AliExpress) |
+| DHT11 module (KY-015) | Temperature and humidity | 1 | $1.49 | $1.49 | ZAVE Official Store (AliExpress) |
+| Pin headers 2.54mm (10pcs) | Mounting OLED and MPU6050 | 1 | $1.19 | $1.19 | Sincere Company Store (AliExpress) |
+| Custom star PCB (5 boards min) | Main board | 1 | $10.60 | $10.60 | JLCPCB |
+| PCB shipping | Global Standard Direct Line | 1 | $6.43 | $6.43 | JLCPCB |
+| **Total** | | | | **$30.09** | |
+
+
 ## Credits
 
 Based on the Starbie example project and Week 1 guide from Half Life by SharKingStudios: https://github.com/SharKingStudios/Starbie
+
