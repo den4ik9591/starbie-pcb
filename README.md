@@ -102,10 +102,9 @@ Full file: [`bom.csv`](bom.csv). Prices converted from GBP to USD at 1 GBP = 1.3
 | Pin headers 2.54mm (10pcs) | Mounting OLED and MPU6050 | 1 | $1.19 | $1.19 | Sincere Company Store (AliExpress) |
 | Custom star PCB (5 boards min) | Main board | 1 | $10.60 | $10.60 | JLCPCB |
 | PCB shipping | Global Standard Direct Line | 1 | $6.43 | $6.43 | JLCPCB |
-| **Total** | | | | **$30.09** | |
+| **Total** | | | | **$27.13** | |
 
 
 ## Credits
 
 Based on the Starbie example project and Week 1 guide from Half Life by SharKingStudios: https://github.com/SharKingStudios/Starbie
-
