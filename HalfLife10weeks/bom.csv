@@ -4,6 +4,5 @@ ESP32 C3 SuperMini development board,Main microcontroller,1,2.66,2.66,AliExpress
 GY-521 MPU6050 module,Tilt and shake sensing,1,2.16,2.16,ZAVE Official Store (AliExpress),FILL_IN
 DHT11 module (KY-015),Temperature and humidity stats,1,1.49,1.49,ZAVE Official Store (AliExpress),FILL_IN
 Pin headers 2.54mm (10pcs),Mounting OLED and MPU6050,1,1.19,1.19,Sincere Company Store (AliExpress),FILL_IN
-Cherry MX style switch,Buttons,2,FILL_IN,FILL_IN,AliExpress,FILL_IN
 Custom star PCB (5 boards min),Main board fabricated from Gerbers,1,10.60,10.60,JLCPCB,https://jlcpcb.com
 PCB shipping (Global Standard Direct Line),Shipping for PCB order,1,6.43,6.43,JLCPCB,https://jlcpcb.com
