@@ -1,8 +1,8 @@
 Name,Purpose,Quantity,Unit Cost (USD),Total Cost (USD),Vendor,Link
-ESP32 C3 SuperMini development board,Main microcontroller,1,2.66,2.66,AliExpress,FILL_IN
-0.96in 128x64 I2C OLED (SSD1306),Pet display,1,2.60,2.60,UMLIFE Store (AliExpress),FILL_IN
-GY-521 MPU6050 module,Tilt and shake sensing,1,2.16,2.16,ZAVE Official Store (AliExpress),FILL_IN
-DHT11 module (KY-015),Temperature and humidity stats,1,1.49,1.49,ZAVE Official Store (AliExpress),FILL_IN
-Pin headers 2.54mm (10pcs),Mounting OLED and MPU6050,1,1.19,1.19,Sincere Company Store (AliExpress),FILL_IN
+ESP32 C3 SuperMini development board,Main microcontroller,1,2.66,2.66,AliExpress,https://a.aliexpress.com/_EwOr6si
+0.96in 128x64 I2C OLED (SSD1306),Pet display,1,2.60,2.60,UMLIFE Store (AliExpress),https://a.aliexpress.com/_EyjILVo
+GY-521 MPU6050 module,Tilt and shake sensing,1,2.16,2.16,ZAVE Official Store (AliExpress),https://a.aliexpress.com/_EQTt9d0
+DHT11 module (KY-015),Temperature and humidity stats,1,1.49,1.49,ZAVE Official Store (AliExpress),https://a.aliexpress.com/_EJhRA2W
+Pin headers 2.54mm (10pcs),Mounting OLED and MPU6050,1,1.19,1.19,Sincere Company Store (AliExpress),https://a.aliexpress.com/_EzPqeJC https://a.aliexpress.com/_EGlrmQO
 Custom star PCB (5 boards min),Main board fabricated from Gerbers,1,10.60,10.60,JLCPCB,https://jlcpcb.com
 PCB shipping (Global Standard Direct Line),Shipping for PCB order,1,6.43,6.43,JLCPCB,https://jlcpcb.com
