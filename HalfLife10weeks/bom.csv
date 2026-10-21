@@ -1,7 +1,11 @@
-Reference,Value,Footprint,Qty
-J1,Conn_01x04_Pin (0.96" 128x64 I2C OLED),Imported Parts:Display_128x64_096_I2C,1
-J2,Conn_01x08_Pin (MPU6050 module),Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical,1
-R1,10k,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,1
-"SW1, SW2",SW_Push,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,2
-U1,XIAO-ESP32-C3,Imported Parts:XIAO-ESP32-C6-DIP,1
-U2,DHT11,Sensor:Aosong_DHT11_5.5x12.0_P2.54mm,1
+Name,Purpose,Quantity,Unit Cost (USD),Total Cost (USD),Link
+Seeed Studio XIAO ESP32-C3,Main microcontroller,1,FILL_IN,FILL_IN,FILL_IN
+0.96in 128x64 I2C OLED (SSD1306),Pet display,1,FILL_IN,FILL_IN,FILL_IN
+GY-521 MPU6050 module,Tilt and shake sensing,1,FILL_IN,FILL_IN,FILL_IN
+DHT11 temperature and humidity sensor,Stats screen,1,FILL_IN,FILL_IN,FILL_IN
+10k ohm resistor,DHT11 pull-up,1,FILL_IN,FILL_IN,FILL_IN
+Cherry MX style switch,Buttons,2,FILL_IN,FILL_IN,FILL_IN
+Pin headers 2.54mm,Mounting OLED and MPU6050,1,FILL_IN,FILL_IN,FILL_IN
+Custom star PCB,Main board (fabricated from Gerbers),1,FILL_IN,FILL_IN,FILL_IN
+Heat-set inserts M3,Case: hold PCB,4,FILL_IN,FILL_IN,FILL_IN
+M3 screws,Case: hold PCB,4,FILL_IN,FILL_IN,FILL_IN
